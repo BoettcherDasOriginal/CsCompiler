@@ -10,7 +10,7 @@ The CCMK file tells the compiler everything it needs to know in order to compile
 
 The CCMK file is in yaml format and looks something like this:
 
-```
+```yaml
 # YAML ccmk example
 
 # Add Referenced Assemblies
