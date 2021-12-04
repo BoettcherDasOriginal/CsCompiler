@@ -1,0 +1,14 @@
+# YAML ccmk example
+# this file contains all possible fields which can be contradictory, so not a real-world example
+
+# Add Referenced Assemblies
+ReferencedAssemblies:
+- DEBUG.ccmk
+
+# Source Files
+SrcFiles: 
+- SrcExample1.cs
+- SrcExample2.cs
+
+# Specify the assembly file name to generate
+OutputAssembly: ExampleFile.exe
