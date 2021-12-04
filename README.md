@@ -26,9 +26,9 @@ SrcFiles:
 OutputAssembly: ExampleFile.exe
 ```
 
-- In the Referenced Assemblies list you can add your own required assemblies that are not included in the standard .NET Framework.
-- In the Source Files list you can specify the path to your individual C # source files that you want to compile.
-- The output assembly determines the fully compiled file, which must end with .exe or .dll.
+- In the Referenced Assemblies list you can add your own required assemblies that are not included in the .NET Framework (currently the .NET Framework 4.8)
+- In the Source Files list you can specify the path to your individual C # source files that you want to compile
+- The output assembly determines the fully compiled file, which must end with .exe or .dll
 
 ### What now?
 
